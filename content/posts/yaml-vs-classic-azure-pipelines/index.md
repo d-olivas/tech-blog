@@ -1,17 +1,17 @@
 ---
 title: "YAML vs Classic Azure Pipelines"
 date: 2021-01-16T10:00:00-06:00
-draft: false          # true = won't publish; false = live
+draft: false
 tags: ["azure", "pipeline", "devops", "yaml"]
 categories: ["DevOps"]
 description: "An honest comparison based on experience."
 cover:
-  image: "/yaml-vs-classic-azure-pipelines/cover.jpg"
-  alt: "Cover alt text"
+  image: cover.jpg
+  alt: "Pipelines"
   relative: true
   hiddenInList: true
   hiddenInSingle: false
-showToc: true         # PaperMod-specific: table of contents
+showToc: true # show Table of Contents
 ---
 
 ## Introduction
