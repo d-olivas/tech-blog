@@ -15,21 +15,20 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: David Olivas Tech Blog
-  description: "Cloud Engineering blog"
+  description: "Cloud Engineering Blog"
   keywords: [Blog, Portfolio, PaperMod]
-  author: David Olivas Montero
-  # author: ["Me", "You"] # multiple authors
+  author: ["David Olivas Montero"]
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: auto
   disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -38,7 +37,7 @@ params:
   hidemeta: false
   hideSummary: false
   showtoc: false
-  tocopen: false
+  tocopen: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -71,12 +70,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Welcome to my humble blog!"
+    Content: I enjoy writing about my experiences and learnings in the world of cloud engineering, DevOps, and related topics. I hope you find something useful here!
 
   socialIcons:
     - name: linkedin
-      url: "www.linkedin.com/in/david-olivas-montero-094041141"
+      url: "https://www.linkedin.com/in/david-olivas-montero-094041141/"
     - name: medium
       url: "https://medium.com/@dolivasm"
     - name: github
@@ -95,10 +94,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/d-olivas/tech-blog/tree/main/content/"
+  #   Text: "Suggest Changes"
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -121,9 +120,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: profile
+      name: about me
+      url: https://dolivas.com
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

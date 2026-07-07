@@ -7,10 +7,11 @@ categories: ["DevOps"]
 description: "An honest comparison based on experience."
 cover:
   image: cover.jpg
-  alt: "Pipelines"
+  alt: Pipelines
   relative: true
   hiddenInList: true
   hiddenInSingle: false
+  caption: "[Image](https://unsplash.com/photos/black-metal-tube-lot-9AxFJaNySB8) from [Unsplash](https://unsplash.com/) by [@realaxer](https://unsplash.com/@realaxer)."
 showToc: true # show Table of Contents
 ---
 
@@ -23,8 +24,6 @@ On the other hand, YAML pipelines are set up using code on, you guessed it, a YA
 You can build and deploy an application using classic pipelines. However, release pipelines have more features to manage deployments for different environments, triggers, pre, and post-deployment conditions, etc.
 
 With YAML pipelines you can build and deploy an application as well. They have something called “deployment jobs” and “environments” that can be used to deploy to different environments, similar to what the release pipelines do.
-
-Your content here in **Markdown**.
 
 ## Pros and Cons
 
