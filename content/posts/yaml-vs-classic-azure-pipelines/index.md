@@ -3,14 +3,12 @@ title: "YAML vs Classic Azure Pipelines"
 date: 2021-01-16T10:00:00-06:00
 draft: false
 tags: ["azure", "pipeline", "devops", "yaml"]
-categories: ["DevOps"]
+categories: ["Azure", "DevOps"]
 description: "An honest comparison based on experience."
 cover:
   image: cover.jpg
   alt: Pipelines
   relative: true
-  hiddenInList: true
-  hiddenInSingle: false
   caption: "[Image](https://unsplash.com/photos/black-metal-tube-lot-9AxFJaNySB8) from [Unsplash](https://unsplash.com/) by [@realaxer](https://unsplash.com/@realaxer)."
 showToc: true # show Table of Contents
 ---
