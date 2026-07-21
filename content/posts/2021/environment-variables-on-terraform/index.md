@@ -3,7 +3,7 @@ title: "How to Use Environment Variables on Terraform"
 date: 2021-03-23T10:00:00-06:00
 draft: false
 tags: ["environment variables", "devops", "terraform"]
-categories: ["DevOps", "Infrastructure as Code"]
+categories: ["DevOps", "Terraform"]
 description: "A beginner's guide."
 cover:
   image: cover.jpg
