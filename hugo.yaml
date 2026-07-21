@@ -8,6 +8,12 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+# Keep post URLs based on the leaf bundle folder name only, so posts can be
+# organized into arbitrary subfolders (e.g. by year) on disk without changing
+# their published URL (e.g. /posts/my-post/).
+permalinks:
+  posts: /posts/:contentbasename/
+
 minify:
   disableXML: true
   minifyOutput: true
