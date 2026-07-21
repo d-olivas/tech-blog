@@ -1,6 +1,6 @@
 ---
 title: "Setting Up SonarCloud for Azure Pipelines"
-date: 2026-01-16T10:00:00-06:00
+date: 2021-05-28T10:00:00-06:00
 draft: false
 tags: ["azure", "pipeline", "devops", "sonar cloud", "static code analysis", "continuous integration"]
 categories: ["Azure", "DevOps"]
