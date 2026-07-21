@@ -2,7 +2,7 @@
 title: "Deploy a Docker Image from ACR to Azure App Service Using Pipelines"
 date: 2021-02-19T10:00:00-06:00
 draft: false
-tags: ["azure", "pipeline", "devops", "yaml"]
+tags: ["azure", "pipeline", "devops", "yaml", "docker"]
 categories: ["Azure", "DevOps"]
 description: "A guide with detailed steps and screenshots."
 cover:
