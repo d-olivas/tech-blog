@@ -1,4 +1,4 @@
-baseURL: "https://blog.dolivas.com/"
+baseURL: "https://tech-blog.dolivas.com/"
 title: David Olivas
 paginate: 5
 theme: PaperMod
