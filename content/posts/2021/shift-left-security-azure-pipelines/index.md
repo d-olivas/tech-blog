@@ -31,7 +31,7 @@ Doing this type of analysis will help us detect common bugs, vulnerabilities, an
 
 One of the most common tools for static code analysis is called [SonarQube](https://www.sonarqube.org/) ([SonarCloud](https://sonarcloud.io/) for cloud-based code, more about the difference [here](https://blog.sonarsource.com/sq-sc_guidance)), it has an Azure DevOps extension to easily analyze code in Azure Pipelines.
 
-Other static code analyzers can be used with Azure Pipelines as well, like [Fortify](https://www.microfocus.com/en-us/cyberres/application-security), [PMD](https://pmd.github.io/), [FindBugs](http://findbugs.sourceforge.net/), [Code Dx](https://codedx.com/), and several others.
+Other static code analyzers can be used with Azure Pipelines as well, like [Fortify](https://www.microfocus.com/en-us/cyberres/application-security), [PMD](https://pmd.github.io/), [FindBugs](https://findbugs.sourceforge.net/), [Code Dx](https://codedx.com/), and several others.
 
 ### Open-Source Management Solutions
 

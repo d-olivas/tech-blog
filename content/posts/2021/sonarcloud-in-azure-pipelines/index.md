@@ -157,6 +157,6 @@ We can fill out the form to try to get access to a hosted agent for our public p
 
 Setting up SonarCloud to work with Azure Pipelines is a straightforward process. However, if this is the first time doing it, then it is easy to get a little lost trying to find the next step. SonarCloud does a great job telling us the steps to follow to configure our project, but it doesn't cover all the details.
 
-Using static code analysis tools such as SonarCloud can make a big difference in our code’s quality and security, we must try to run this type of analysis in all of our projects. SonarCloud has a Visual Studio Code extension called [SonarLint](http://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) that will help improving code even before committing it.
+Using static code analysis tools such as SonarCloud can make a big difference in our code’s quality and security, we must try to run this type of analysis in all of our projects. SonarCloud has a Visual Studio Code extension called [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) that will help improving code even before committing it.
 
 Hopefully, this post has helped you make your day a little bit easier.
