@@ -76,8 +76,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to my humble blog!"
-    Content: I enjoy writing about my experiences and learnings in the world of cloud engineering, DevOps, and related topics. I hope you find something useful here!
+    Title: "Lessons from My Cloud & Platform Engineering Journey"
+    Content: "I share what I've learned building, running, and maintaining cloud infrastructure — real experience, real mistakes, real solutions. I hope you can find something useful here. Quick disclaimer: I use AI for research, but all the content is written by me from past and current experiences."
 
   socialIcons:
     - name: linkedin
